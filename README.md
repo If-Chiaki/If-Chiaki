@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @If-Chiaki
+- 👋 Hi, I’m Lumine!
 - 🍥 I'm a third-year undergrad at the ZheJiang University, studying Math and CS
 
 <!---

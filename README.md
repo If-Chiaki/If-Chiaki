@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Lumine!
-- 🍥 I'm a third-year undergrad at the ZheJiang University, studying Math and CS
+# Hi, I'm If-Chiaki 👋
 
-<!---
-If-Chiaki/If-Chiaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Student @ Zhejiang University  
+📚 Study Math & Computer Science  
+🤖 Interested in AI & Statistics  
+🏊‍♂️ Swimming enthusiast
+
+<!--
+**If-Chiaki/If-Chiaki** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->

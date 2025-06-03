@@ -1,4 +1,4 @@
-# Hi, I'm If-Chiaki 👋
+Hi, I'm If-Chiaki 👋
 
 🎓 Student @ Zhejiang University  
 📚 Study Math & Computer Science  

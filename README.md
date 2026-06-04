@@ -1,7 +1,6 @@
-Hi, I'm If-Chiaki 👋
+Hi, I'm @Lumine 👋
 
-Student @ Zhejiang University  
-Study Math & Computer Science  
+Undergrauate Student @ Zhejiang University -> CS & Math  
 
 
 <!--

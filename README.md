@@ -1,8 +1,8 @@
-Hi, I'm @Lumine 👋
+# Hi, I'm Yuxuan Dong 👋
 
-Undergrauate Student @ Zhejiang University -> CS & Math  
+Independent Researcher
 
+B.S. in Computer Science, Zhejiang University  
+Minor in Mathematics
 
-<!--
-**If-Chiaki/If-Chiaki** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+📧 dongyx@zuaa.zju.edu.cn
